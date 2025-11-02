@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Islam</h1>
-<h3 align="center">I am a passionate Sophomore Student at Towson University</h3>
+<h3 align="center">I am a passionate Junior at Towson University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aislam5&label=Profile%20views&color=0e75b6&style=flat" alt="aislam5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aislam5" alt="aislam5" /></a> </p>
 
-- 🔭 I’m currently working on [Memory Card Game](https://github.com/aislam5/memory-card-game)
+- 🔭 I’m currently working on ByeByeBrainrot(https://github.com/aislam5/memory-card-game)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
