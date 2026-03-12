@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aislam5" alt="aislam5" /></a> </p>
 
-- 🔭 I’m currently working on ByeByeBrainrot(https://github.com/aislam5/memory-card-game)
+- 🔭 I’m currently working on ByeByeBrainrot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
